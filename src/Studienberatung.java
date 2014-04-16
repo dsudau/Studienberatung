@@ -12,3 +12,4 @@ public class Studienberatung {
 		System.out.println("Bist du wissbegierig[j/n]?");
 		antwort = scanner.next();
 }
+}
