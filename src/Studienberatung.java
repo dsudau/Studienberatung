@@ -7,4 +7,6 @@ public class Studienberatung {
 		
 		System.out.println("Hast du Abitur[j/n]?");
 		antwort = scanner.next();
+		System.out.println("Hast du Fachabitur[j/n]?");
+		antwort = scanner.next();
 }
