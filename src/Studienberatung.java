@@ -9,4 +9,6 @@ public class Studienberatung {
 		antwort = scanner.next();
 		System.out.println("Hast du Fachabitur[j/n]?");
 		antwort = scanner.next();
+		System.out.println("Bist du wissbegierig[j/n]?");
+		antwort = scanner.next();
 }
