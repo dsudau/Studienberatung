@@ -11,5 +11,7 @@ public class Studienberatung {
 		antwort = scanner.next();
 		System.out.println("Bist du wissbegierig[j/n]?");
 		antwort = scanner.next();
+//
+//Test
 }
 }
